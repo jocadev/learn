@@ -16,3 +16,4 @@ testing repo
 
 -js
 -react
+-angular
