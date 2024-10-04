@@ -1,5 +1,20 @@
 # learn
 testing repo
 
-twtgqetqt
-test 1
+# technologies
+
+-html,
+-css,
+-git,
+-js 
+
+# wishlist
+
+-js advanced
+
+# courses
+
+-js
+-react
+-angular
+-test1
