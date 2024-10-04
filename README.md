@@ -11,3 +11,7 @@ testing repo
 # wishlist
 
 -js advanced
+
+# courses
+
+-react
