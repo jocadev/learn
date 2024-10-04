@@ -10,14 +10,3 @@ learning the git commands
 
 # wishlist
 
--js advanced
-
-# courses
-
--js
--react
--angular
-
-# test 2 added new things
-
-new new new
