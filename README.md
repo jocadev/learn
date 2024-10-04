@@ -1,5 +1,5 @@
 # learn
-testing repo
+learning the git commands
 
 # technologies
 
@@ -17,6 +17,7 @@ testing repo
 -js
 -react
 -angular
--test1
-test2
-test22
+
+# test 2 added new things
+
+new new new
