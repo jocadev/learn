@@ -1,5 +1,5 @@
 # learn
-testing repo
+testing repo, learning the git commands
 
 # technologies
 
