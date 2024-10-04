@@ -5,4 +5,9 @@ testing repo
 
 -html,
 -css,
--git 
+-git,
+-js 
+
+# wishlist
+
+-js advanced
