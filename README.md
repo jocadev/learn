@@ -1,7 +1,7 @@
 # learn
 testing repo
 
-# list for learning things
+# technologies
 
 -html,
 -css,
