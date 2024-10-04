@@ -2,4 +2,7 @@
 testing repo
 
 # list for learning things
-html 
+
+-html
+-css
+-git 
