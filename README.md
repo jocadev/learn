@@ -10,11 +10,3 @@ testing repo
 
 # wishlist
 
--js advanced
-
-# courses
-
--js
--react
--angular
--test1
