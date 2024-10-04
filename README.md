@@ -17,6 +17,3 @@ testing repo
 -js
 -react
 -angular
--test1
-test2
-test22
