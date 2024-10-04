@@ -14,4 +14,5 @@ testing repo
 
 # courses
 
+-js
 -react
