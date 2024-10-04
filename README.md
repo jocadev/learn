@@ -18,3 +18,5 @@ testing repo
 -react
 -angular
 -test1
+test2
+test22
