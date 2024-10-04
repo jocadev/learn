@@ -10,4 +10,4 @@ learning the git commands
 
 # wishlist
 
-test
+test fetch
