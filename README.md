@@ -3,6 +3,6 @@ testing repo
 
 # list for learning things
 
--html
--css
+-html,
+-css,
 -git 
